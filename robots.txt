@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-8yvhud.wakku.work/sitemap.xml
